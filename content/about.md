@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Research Scholar by profession who loves computers and likes reading books, watching movies, traveling places among many other things.
+I am an Environmental Science Research Scholar who likes reading books, watching movies, traveling places among many other things.
 
 --- 
 
