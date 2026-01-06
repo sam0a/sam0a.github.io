@@ -4,7 +4,7 @@ title = "Musings"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-paginate = 10
+pagination.pagerSize = 10
 enableEmoji = true
 
 [params]
@@ -12,7 +12,7 @@ enableEmoji = true
   description = "My Musings on various things"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpeg"
-  since = 2024
+  since = 2026
   colorScheme = "auto"
   enableTwemoji = true
   hidecolorschemetoggle = false
